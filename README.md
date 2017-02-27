@@ -9,6 +9,6 @@ once the odoo is installed copy this to the /opt/odoo/odoo-10.0/addons <br />
 execute odoo-bin, to do so,<br />
 ```$ ./odoo-bin```
 
-access it from the web-browser by intially creating a specific db.
+access it from the web-browser by intially creating a specific db. Don't forget to update apps list. Once, updated install the app. 
 
 Cheers! 
