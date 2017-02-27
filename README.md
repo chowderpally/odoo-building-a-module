@@ -1,2 +1,14 @@
-Before you actually start make sure you have odoo installed. If no? then follow this link 
-https://www.getopenerp.com/install-odoo-10-on-ubuntu-16-04/
+# Before you actually start
+
+Make sure you've got odoo installed. If no, then follow this link to install odoo.
+[Install Odoo](https://www.getopenerp.com/install-odoo-10-on-ubuntu-16-04/)
+
+once the odoo is installed copy this to the /opt/odoo/odoo-10.0/addons <br />
+``` $ cd /opt/odoo/odoo-10.0/```
+
+execute odoo-bin, to do so,<br />
+```$ ./odoo-bin```
+
+access it from the web-browser by intially creating a specific db.
+
+Cheers! 
